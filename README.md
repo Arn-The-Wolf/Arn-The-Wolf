@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arn-The-Wolf
 - 👀 I’m interested in ...Full stack developer
-- 🌱 I’m currently learning ...Java, Astro, Ai, Cybersecurity
+- 🌱 I’m fluent in  ...Java, Astro, Ai, Cybersecurity
 - 💞️ I’m looking to collaborate on ...any project
 - 📫 How to reach me ...via arnwolfie5@gmail.com
 - 😄 Pronouns: ..... He/his
